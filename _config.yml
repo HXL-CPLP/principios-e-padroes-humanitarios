@@ -1,0 +1,28 @@
+# Baseado em https://github.com/EticaAI/ajuda.etica.dev/blob/master/_config.yml
+
+title: "Referências sobre princípios e padrões humanitários do HXL-CPLP"
+description: "Repositório com referências rápidas sobre Princípios e Padrões Humanitários em
+português de diversas fontes"
+# image:
+#   path: '/img/aguia-pescadora-banner.jpg'
+#   height: 640
+#   width: 1280
+
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: 
+#         path: '/img/aguia-pescadora-banner.jpg'
+#         height: 640
+#         width: 1280
+
+# see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+lang: 'pt'
+
+twitter:
+  username: EticaAI
+  card: summary
+
+plugins:
+  - jekyll-seo-tag
