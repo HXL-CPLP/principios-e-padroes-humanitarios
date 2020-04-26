@@ -1,8 +1,14 @@
 # Referências sobre Princípios e padrões humanitários do HXL-CPLP
-**Repositório com referências rápidas sobre Princípios e Padrões Humanitários em
-português.**
 
-**Acesse a página em: <https://hxl.etica.ai/principios-e-padroes-humanitarios/>.**
+> Repositório com referências rápidas sobre Princípios e Padrões Humanitários em
+português.
+
+[![Standard HXL](https://img.shields.io/badge/Standard-HXL-%23F26459)](https://hxlstandard.org/)
+![GitHub](https://img.shields.io/github/license/HXL-CPLP/principios-e-padroes-humanitarios)
+[![Site](https://img.shields.io/badge/Site-hxl.etica.ai%2Fprincipios--e--padroes--humanitarios-blue)](https://hxl.etica.ai/https://hxl.etica.ai/principios-e-padroes-humanitarios/)
+[![GitHub stars](https://img.shields.io/github/stars/HXL-CPLP/principios-e-padroes-humanitarios?style=social)](https://github.com/HXL-CPLP/principios-e-padroes-humanitarios)
+
+[![Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa](https://hxl.etica.ai/img/banner-hxl-cplp.png)](https://padrao-hxl.etica.ai/)
 
 Acompanhe a discussão inicial em <https://github.com/HXL-CPLP/forum/issues/7>
 
