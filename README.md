@@ -179,6 +179,12 @@ Estabelece nove compromissos que as organizações e indivíduos envolvidos na r
 [Padrões profissionais para o trabalho de proteção do CICV (2018)](https://www.icrc.org/en/publication/0999-professional-standards-protection-work-carried-out-humanitarian-and-human-rights)  
 [Um conjunto de padrões mínimos, mas essenciais, destinados a garantir que o trabalho de proteção realizado por direitos humanos e atores humanitários em conflitos armados e outras situações de violência seja seguro e eficaz]
 
+# Aviso Legal
+Tanto o site <https://padrao-hxl.etica.ai> como a organização no GitHub
+<https://github.com/HXL-CPLP> e seus projetos são realizações voluntárias do
+**Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua
+Portuguesa** e, ainda que possa haver colaboração ou uso de conteúdo,
+**não somos afiliados ou endossados por HXLStandard.org, OCHA, IFRC e afins**.
 
 # Licença
 
