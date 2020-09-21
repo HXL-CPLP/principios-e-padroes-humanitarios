@@ -5,7 +5,7 @@ português.
 
 <!--Este repositório não deve ter badge do HXL e de licensa-->
 
-[![Site](https://img.shields.io/badge/Site-hxl.etica.ai%2Fprincipios--e--padroes--humanitarios-blue)](https://hxl.etica.ai/https://hxl.etica.ai/principios-e-padroes-humanitarios/)
+[![Site](https://img.shields.io/badge/Site-hxl.etica.ai%2Fprincipios--e--padroes--humanitarios-blue)](https://hxl.etica.ai/principios-e-padroes-humanitarios/)
 [![GitHub stars](https://img.shields.io/github/stars/HXL-CPLP/principios-e-padroes-humanitarios?style=social)](https://github.com/HXL-CPLP/principios-e-padroes-humanitarios)
 
 [![Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa](https://hxl.etica.ai/img/banner-hxl-cplp.png)](https://padrao-hxl.etica.ai/)
